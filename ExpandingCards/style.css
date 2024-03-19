@@ -22,12 +22,12 @@ body{
 }
 
 .panel{
-    background-size: auto 100%;
+    background-size: cover; /* can use auto 100% for automatic */
     background-position: center;
     background-repeat: no-repeat;
     height: 80vh;
     border-radius: 50px;
-    color:bisque;
+    color:chocolate;
     cursor: pointer;
     flex : 0.5;
     margin: 10px; 
@@ -51,9 +51,10 @@ body{
 
 .panel.active h3{
     opacity:1;
+    transition: opacity 0.3s ease-in 04.s;
 }
 
-@media(max-width:480pc){
+@media(max-width:480px){
     .container{
         width: 100vw;
     }
