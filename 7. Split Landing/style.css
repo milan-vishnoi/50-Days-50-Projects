@@ -124,3 +124,15 @@ h1 {
 .split.left, .split.right, .split.left::before, .split.right::before {
     transition: all var(--speed) ease-in-out;
 }
+
+@media(max-width:800px) {
+  h1 {
+    font-size: 2rem;
+    top: 30%;
+  }
+
+  .btn {
+     padding: 1.2rem;
+     width: 12rem;
+  }
+}
