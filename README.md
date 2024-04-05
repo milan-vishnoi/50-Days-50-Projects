@@ -23,3 +23,6 @@ Created this repo to publish the code written as a part of 50 Projects in 50 Day
 
 ### 7. Split Landing
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/7.%20Split%20Landing/demo.gif)
+
+### 8. Form Wave Animation
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/8.%20Form%20Wave%20Animation/demo.gif)
