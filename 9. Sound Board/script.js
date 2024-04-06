@@ -5,5 +5,10 @@ sounds.forEach(sound => {
     button.classList.add("btn");
     button.innerText = sound;
 
+    button.addEventListener("click",() => {
+        
+        document.getElementById(sound).play();
+    })
+
     document.getElementById("buttons").appendChild(button);
-})
+});
