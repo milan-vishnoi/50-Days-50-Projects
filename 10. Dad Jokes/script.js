@@ -1,7 +1,8 @@
 const jokeElement = document.getElementById("joke");
-const jokeButton = document.getElementById("jokeBtn");
+const jokeButton = document.getElementById("jokesBtn");
 
-generateJoke()
+jokeButton.addEventListener("click",generateJoke);
+generateJoke();
 
 function generateJoke() {
     const config = {
