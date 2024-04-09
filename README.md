@@ -36,3 +36,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 11. Event KeyCodes
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/11.%20Event%20KeyCodes/demo.gif)
+
+### 12. FAQ Collapse
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/12.%20FAQ%20Collapse/demo.gif)
