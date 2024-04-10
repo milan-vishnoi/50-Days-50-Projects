@@ -10,7 +10,7 @@ textarea.addEventListener("keyup",(e) => {
     { 
         setTimeout(()=> {
             e.target.value = '';
-        },10)
+        },10);
         randomSelect();
     }
 });
