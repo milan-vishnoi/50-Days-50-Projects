@@ -9,10 +9,12 @@ body{
     background-color: #EAFBFF;
     background-image: linear-gradient(
                                       to bottom,
-                                     #EAFBFF 0%,
-                                     #EAFBFF 50%,
-                                     #5290f9 50%,
-                                     #5290f9 100%
+                                     #FF9933 0%,
+                                     #FF9933 33%,
+                                     #fff 33%,
+                                     #fff 66%,
+                                     #138808 66%,
+                                     #138808 100%
                                      );
     font-family: 'Muli', sans-serif;
     display: flex;
