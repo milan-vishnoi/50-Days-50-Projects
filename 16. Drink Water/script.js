@@ -45,4 +45,15 @@ function updateBigCup() {
         percentage.style.height = `${fullCups/totalCups * 330}px`;
         percentage.innerText = `${fullCups/totalCups * 100}%`
     }
+
+    if ( fullCups === totalCups)
+    {
+        remained.style.visibility = "hidden";
+        remained.style.height = 0;
+    }
+    else
+    {
+        remained.style.visibility = "visible";
+        litres.innerText = `${2-(0.25*fullCups)}L`;
+    }
 }
