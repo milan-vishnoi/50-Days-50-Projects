@@ -1,5 +1,5 @@
 //Get your API key from https://developer.themoviedb.org/
-const API_KEY = //replace your key here;
+const API_KEY = "10m64763b4771d19c15d0d7d679c6c38a72dk"; //Dummy Key-- This is not a valid api key
 const API_URL = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key="+API_KEY+"&page=1";
 const IMG_PATH = "https://image.tmdb.org/t/p/w1280";
 const SEARCH_API = "https://api.themoviedb.org/3/search/movie?api_key="+API_KEY+"&query=";
@@ -10,7 +10,6 @@ const searcj = document.getElementById("search");
 getMovies(API_URL);
 
 async function getMovies(url){
-    console.log(url);
     const response = await fetch(url);
     const data = await response.json();
     showMovies(data.results);
