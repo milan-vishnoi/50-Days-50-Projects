@@ -5,3 +5,6 @@ Implemented a movie app such that:
 - A movie detail consist of 3 thing : 1. Movie Title 2. Movie Overview 3. Movie Rating
 - If the rating is 8 or above, then it will be displayed in green, if below 8 and 5 or above then orange and if less than 5 then red.
 - Whenever mouse is hovered on the movie card, its overview will be displayed.
+
+### Project Demo:
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/17.%20Movie%20App/demo.gif)
