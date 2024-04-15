@@ -56,3 +56,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 17. Movie App
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/17.%20Movie%20App/demo.gif)
+
+### 18. Background Slider
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/18.%20Background%20Slider/demo.gif)
