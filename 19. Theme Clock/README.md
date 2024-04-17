@@ -4,3 +4,7 @@ Implemented the Theme clock such that:
 - The 3 needles of the clock representing hour hand, minutes hand and seconds hand should be displayed and should get updated every second.
 - The should also be displayed in the following format: `HH:MM:SS AM/PM`.
 - Date should be displayed below time in following format: `MONTH, Day`.
+
+
+### Project Demo:
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/19.%20Theme%20Clock/demo.gif)
