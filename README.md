@@ -59,3 +59,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 18. Background Slider
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/18.%20Background%20Slider/demo.gif)
+
+### 19. Theme Clock
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/19.%20Theme%20Clock/demo.gif)
