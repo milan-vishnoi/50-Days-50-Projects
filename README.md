@@ -62,3 +62,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 19. Theme Clock
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/19.%20Theme%20Clock/demo.gif)
+
+### 20. Button Ripple Effect
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/20.%20Button%20Ripple%20Effect/demo.gif)
