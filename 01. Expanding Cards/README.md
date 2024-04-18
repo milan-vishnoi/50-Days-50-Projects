@@ -6,4 +6,4 @@ Implemented the expanding cards such that:
 **Note:** Active card is the card on which you click.
 
 ### Project Demo:
-![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/1.%20Expanding%20Cards/project_demo.gif)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/01.%20Expanding%20Cards/project_demo.gif)

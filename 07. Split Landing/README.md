@@ -5,4 +5,4 @@ Implemented the split landing such that:
 - When you hover the mouse on the button, the color of the button will change.
 
 ### Project Demo:
-![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/7.%20Split%20Landing/demo.gif)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/07.%20Split%20Landing/demo.gif)

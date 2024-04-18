@@ -4,4 +4,4 @@ The progress is the implementation of UI of progress steps. It has 4 steps with 
 
 ### Project Demo :
 
-![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/2.%20Progress%20Steps/demo.gif)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/02.%20Progress%20Steps/demo.gif)
