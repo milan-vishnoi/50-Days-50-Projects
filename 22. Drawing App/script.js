@@ -3,12 +3,42 @@ const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 let size = 20;
 let color = "black";
+let x
+let y
+let x1
+let y1
 
+// drawCircle(100, 200);
+// drawLine(100,200,300,300);
 
-drawCircle(100, 200);
-drawLine(100,200,300,300);
+canvas.addEventListener("mousedown",(e)=> {
+    isPressed = true;
+     
+    x = e.offsetX;
+    y = e.offsetY;
+});
 
-// Drawaing shapes: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+canvas.addEventListener("mouseup",(e)=> {
+    isPressed =false;
+
+    x = undefined;
+    y = undefined;
+})
+
+canvas.addEventListener("mousemove",(e)=> {
+    if(isPressed) {
+         x1 = e.offsetX;
+         y1 = e.offsetY;
+
+         drawCircle(x,y);
+         drawLine(x,y,x1,y1);
+
+         x = x1;
+         y = y1;
+    }
+});
+
+// Drawing shapes: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 function drawCircle(x,y) {
     ctx.beginPath();
     ctx.arc(x, y, 20, 0, Math.PI * 2);
@@ -21,6 +51,6 @@ function drawLine(x1, y1, x2, y2) {
     ctx.moveTo(x1,y1);
     ctx.lineTo(x2,y2);
     ctx.strokeStyle = color;
-    ctx.lineWidth = size;
+    ctx.lineWidth = size * 2;
     ctx.stroke();
 }
