@@ -71,3 +71,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 22. Drawing App
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/22.%20Drawing%20App/demo.gif)
+
+### 23. Kinetic CSS Loader
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/23.%20Kinetic%20CSS%20Loader/demo.gif)
