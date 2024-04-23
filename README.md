@@ -74,3 +74,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 23. Kinetic CSS Loader
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/23.%20Kinetic%20CSS%20Loader/demo.gif)
+
+### 24. Content Placeholder
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/24.%20Content%20Placeholder/demo.gif)
