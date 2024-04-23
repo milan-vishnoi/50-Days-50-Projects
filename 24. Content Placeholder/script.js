@@ -16,6 +16,9 @@ function setData() {
     excerpt.innerText = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, consequatur."
     profile_img.innerHTML = '<img src="https://randomuser.me/api/portraits/men/1.jpg" alt="">';
     name.innerText = "John Doe";
-    date.innerText = "23rd April 2024";
+    date.innerHTML = "23rd April 2024";
+
+    animated_bgs.forEach(bg => bg.classList.remove("animated-bg"));
+    animated_bg_texts.forEach(bgText => bgText.classList.remove("animated-bg-text"));
 
 }
