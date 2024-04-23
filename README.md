@@ -5,7 +5,7 @@ To run any project, just clone the repo or download the contents of the folder a
 
 ## Projects
 
-### 1. Expanding Cards
+### 1. [Expanding Cards](https://50projectsbymilan.000webhostapp.com/50projects/01_expanding_cards/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/01.%20Expanding%20Cards/project_demo.gif)
 
 ### 2. Progress Steps
