@@ -43,7 +43,7 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 ### 12. FAQ Collapse
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/12.%20FAQ%20Collapse/demo.gif)
 
-### 13. Random Choice Picker
+### 13. [Random Choice Picker](https://50projectsbymilan.000webhostapp.com/50projects/13_random_choice_picker/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/13.%20Random%20Choice%20Picker/demo.gif)
 
 ### 14. Nav Styling
