@@ -78,3 +78,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 24. [Content Placeholder](https://50projectsbymilan.000webhostapp.com/50projects/24_content_placeholder/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/24.%20Content%20Placeholder/demo.gif)
+
+### 25. [Sticky Navbar](https://50projectsbymilan.000webhostapp.com/50projects/25_sticky_navbar/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/25.%20Sticky%20Navbar/demo.gif)
