@@ -81,3 +81,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 25. [Sticky Navbar](https://50projectsbymilan.000webhostapp.com/50projects/25_sticky_navbar/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/25.%20Sticky%20Navbar/demo.gif)
+
+### 26. [Double Vertical Slider](https://50projectsbymilan.000webhostapp.com/50projects/26_double_vertical_slider/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/26.%20Double%20Vertical%20Slider/demo.gif)
