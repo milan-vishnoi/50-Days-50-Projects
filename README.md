@@ -84,3 +84,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 26. [Double Vertical Slider](https://50projectsbymilan.000webhostapp.com/50projects/26_double_vertical_slider/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/26.%20Double%20Vertical%20Slider/demo.gif)
+
+### 27. [Toast Notifications](https://50projectsbymilan.000webhostapp.com/50projects/27_toast_notifications/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/27.%20Toast%20Notifications/demo.gif)
