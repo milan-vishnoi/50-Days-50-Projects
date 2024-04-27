@@ -87,3 +87,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 27. [Toast Notifications](https://50projectsbymilan.000webhostapp.com/50projects/27_toast_notifications/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/27.%20Toast%20Notifications/demo.gif)
+
+### 28. [Github Profiles](https://50projectsbymilan.000webhostapp.com/50projects/28_github_profiles/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/28.%20Github%20Profiles/demo.gif)
