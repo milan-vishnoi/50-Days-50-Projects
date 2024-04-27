@@ -12,6 +12,8 @@ async function getUser(username) {
   } catch (error) {
     if(error.response.status == 404)
       createErrorCard("No profile found with this username");
+    else if(error.response.status == 500)
+    createErrorCard("Currently Server is down");
   }
 }
 
