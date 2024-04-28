@@ -90,3 +90,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 28. [Github Profiles](https://50projectsbymilan.000webhostapp.com/50projects/28_github_profiles/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/28.%20Github%20Profiles/demo.gif)
+
+### 29. [Double Heart Click](https://50projectsbymilan.000webhostapp.com/50projects/29_double_heart_click/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/29.%20Double%20Heart%20Click/demo.gif)
