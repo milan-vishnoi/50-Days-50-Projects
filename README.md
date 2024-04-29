@@ -55,7 +55,7 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 ### 16. Drink Water
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/16.%20Drink%20Water/demo.gif)
 
-### 17. Movie App
+### 17. [Movie App](https://50projectsbymilan.000webhostapp.com/50projects/17_movie_app/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/17.%20Movie%20App/demo.gif)
 
 ### 18. Background Slider
