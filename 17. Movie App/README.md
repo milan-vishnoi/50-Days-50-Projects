@@ -1,4 +1,4 @@
-## Movie App
+## [Movie App](https://50projectsbymilan.000webhostapp.com/50projects/17_movie_app/)
 Implemented a movie app such that:
 - The movies are fetched from https://www.themoviedb.org/ by using its API, the movies are sorted in descending order according to their popularity.
 - Whenever any keyword is entered in the search bar, the related movies are fecthed from the same api using search url
