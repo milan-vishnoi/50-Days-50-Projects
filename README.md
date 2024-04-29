@@ -93,3 +93,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 29. [Double Heart Click](https://50projectsbymilan.000webhostapp.com/50projects/29_double_heart_click/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/29.%20Double%20Heart%20Click/demo.gif)
+
+### 30. [Auto Text Effect](https://50projectsbymilan.000webhostapp.com/50projects/30_auto_text_effect/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/30.%20Auto%20Text%20Effect/demo.gif)
