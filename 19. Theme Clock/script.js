@@ -25,12 +25,12 @@ setInterval(setTime,1000);
 
 function setTime(){
     const time = new Date();
-    const day = time.getDay();
+    const day = time.getDate();
     const month = time.getMonth();
     const hour = time.getHours() % 12; //getHours will return hours in 24 hour format, converting it to 12 hours
     const minutes = time.getMinutes();
     const seconds  = time.getSeconds();
-    const meridian = time.getHours < 12 ? "AM": "PM";
+    const meridian = time.getHours() < 12 ? "AM": "PM";
 
     hourElement.style.transform = `translate(-50%, -100%) rotate(${scale(hour,0,11,0,360)}deg)`;
     minuteElement.style.transform = `translate(-50%, -100%) rotate(${scale(minutes,0,59,0,360)}deg)`;
