@@ -9,7 +9,7 @@ To run any project, just clone the repo or download the contents of the folder a
 
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/01.%20Expanding%20Cards/project_demo.gif)
 
-### 2. Progress Steps
+### 2. [Progress Steps](https://50projectsbymilan.000webhostapp.com/50projects/02_progress_steps/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/02.%20Progress%20Steps/demo.gif)
 
 ### 3. Rotating Navigation
