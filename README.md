@@ -15,7 +15,7 @@ To run any project, just clone the repo or download the contents of the folder a
 ### 3. [Rotating Navigation](https://50projectsbymilan.000webhostapp.com/50projects/03_rotating_navigation/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/03.%20Rotating%20Navigation/demo.gif)
 
-### 4. Hidden Search
+### 4. [Hidden Search](https://50projectsbymilan.000webhostapp.com/50projects/04_hidden_search/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/04.%20Hidden%20Search/demo.gif)
 
 ### 5. Blurry Loading
