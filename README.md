@@ -99,3 +99,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 31. [Password Generator](https://50projectsbymilan.000webhostapp.com/50projects/31_password_generator/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/31.%20Password%20Generator/demo.gif)
+
+### 32. [Good, Cheap, Fast Checkboxes](https://50projectsbymilan.000webhostapp.com/50projects/32_good_cheap_fast_checkboxes/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/32.%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/demo.gif)
