@@ -12,7 +12,7 @@ To run any project, just clone the repo or download the contents of the folder a
 ### 2. [Progress Steps](https://50projectsbymilan.000webhostapp.com/50projects/02_progress_steps/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/02.%20Progress%20Steps/demo.gif)
 
-### 3. Rotating Navigation
+### 3. [Rotating Navigation](https://50projectsbymilan.000webhostapp.com/50projects/03_rotating_navigation/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/03.%20Rotating%20Navigation/demo.gif)
 
 ### 4. Hidden Search
