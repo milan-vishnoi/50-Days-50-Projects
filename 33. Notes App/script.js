@@ -1,4 +1,9 @@
 const addButton = document.getElementById("add");
+const notes = JSON.parse(localStorage.getItem("notes"));
+
+if(notes) {
+    notes.forEach(note => addNewNote(note));
+}
 
 addButton.addEventListener("click",()=> addNewNote("**Hello World**"));
 
@@ -33,7 +38,21 @@ function addNewNote(text="") {
         const { value } = event.target;
 
         main.innerHTML = value;
+
+        updateLocalStorage();
     })
 
     document.body.appendChild(note);
+}
+
+function updateLocalStorage(){
+    const notesList = document.querySelectorAll("textarea");
+
+    const notes = [];
+
+    notesList.forEach(note => {
+        notes.push(note.value);
+    })
+
+    localStorage.setItem("notes",JSON.stringify(notes));
 }
