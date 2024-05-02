@@ -5,7 +5,7 @@ if(notes) {
     notes.forEach(note => addNewNote(note));
 }
 
-addButton.addEventListener("click",()=> addNewNote("**Hello World**"));
+addButton.addEventListener("click",()=> addNewNote(""));
 
 function addNewNote(text="") {
     const note = document.createElement("div");
