@@ -25,7 +25,7 @@ function addNewNote(text="") {
     const textarea = note.querySelector("textarea");
 
     textarea.value = text;
-    main.innerHTML = text;
+    main.innerHTML = marked.parse(text);
 
     deleteButton.addEventListener("click", () => {
         note.remove();
@@ -40,7 +40,7 @@ function addNewNote(text="") {
     textarea.addEventListener("input",(event)=> {
         const { value } = event.target;
 
-        main.innerHTML = value;
+        main.innerHTML = marked.parse(value);
 
         updateLocalStorage();
     })
