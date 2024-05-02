@@ -11,8 +11,15 @@ function addNewNote(text="") {
         <button class="delete"><i class="fas fa-trash-alt"></i></button>
     </div>
 <div class="main ${text ? "":"hidden"}"></div>
-<textarea class="${text ? "":"hidden"}"></textarea>
+<textarea class="${text ? "hidden":""}"></textarea>
     `;
+    
+    const editButton = note.querySelector(".edit");
+    const deleteButton = note.querySelector(".delete");
+    const main = note.querySelector(".main");
+    const textarea = note.querySelector("textarea");
+
+    deleteButton.addEventListener("click", () => note.remove() );
 
     document.body.appendChild(note);
 }
