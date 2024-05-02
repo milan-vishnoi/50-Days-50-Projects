@@ -27,7 +27,10 @@ function addNewNote(text="") {
     textarea.value = text;
     main.innerHTML = text;
 
-    deleteButton.addEventListener("click", () => note.remove() );
+    deleteButton.addEventListener("click", () => {
+        note.remove();
+        updateLocalStorage();
+    } );
 
     editButton.addEventListener("click", () => {
         main.classList.toggle("hidden");
