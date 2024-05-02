@@ -10,4 +10,4 @@ Implemented the notes app such that:
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/33.%20Notes%20App/demo.gif)
 
 **Markdown Supported Notes Demo** 
-[!Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/33.%20Notes%20App/demo1.gif)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/33.%20Notes%20App/demo1.gif)
