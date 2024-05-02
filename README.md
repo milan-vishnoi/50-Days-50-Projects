@@ -102,3 +102,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 32. [Good, Cheap, Fast Checkboxes](https://50projectsbymilan.000webhostapp.com/50projects/32_good_cheap_fast_checkboxes/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/32.%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/demo.gif)
+
+### 33. [Notes App](https://50projectsbymilan.000webhostapp.com/50projects/33_notes_app/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/33.%20Notes%20App/demo.gif)
