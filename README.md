@@ -107,3 +107,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/33.%20Notes%20App/demo.gif)
 **Markdown Supported Notes Demo** 
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/33.%20Notes%20App/demo1.gif)
+
+### 34. [Animated Countdown](https://50projectsbymilan.000webhostapp.com/50projects/34_animated_countdown/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/34.%20Animated%20Countdown/demo.gif)
