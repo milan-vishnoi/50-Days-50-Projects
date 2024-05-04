@@ -24,3 +24,14 @@ function changeImage() {
   
   imagesContainer.style.transform = `translateX(${-index*450}px)`
 }
+
+
+rightButton.addEventListener("click", () => {
+    index++;
+    changeImage();
+})
+
+leftButton.addEventListener("click", () => {
+    index--;
+    changeImage();
+})
