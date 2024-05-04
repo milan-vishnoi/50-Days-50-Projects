@@ -15,12 +15,6 @@ body{
     justify-content: center;
 }
 
-img {
-    width: 450px;
-    height: 450px;
-    object-fit: cover;
-}
-
 .carousel {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
     height: 480px;
@@ -30,8 +24,15 @@ img {
 
 .image-container {
     display: flex;
+    width:fit-content;
     transform: translateX(0);
     transition: transform 0.5s ease-in-out;
+}
+
+.image-container img {
+    width: 450px;
+    height: 450px; 
+    object-fit: cover;
 }
 
 .button-container {
