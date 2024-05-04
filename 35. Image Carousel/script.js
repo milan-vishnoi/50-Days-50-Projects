@@ -25,13 +25,19 @@ function changeImage() {
   imagesContainer.style.transform = `translateX(${-index*450}px)`
 }
 
+function resetInterval() {
+    clearInterval(interval);
+    interval = setInterval(run, 2000);
+}
 
 rightButton.addEventListener("click", () => {
     index++;
     changeImage();
+    resetInterval();
 })
 
 leftButton.addEventListener("click", () => {
     index--;
     changeImage();
+    resetInterval();
 })
