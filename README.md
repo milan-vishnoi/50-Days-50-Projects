@@ -110,3 +110,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 34. [Animated Countdown](https://50projectsbymilan.000webhostapp.com/50projects/34_animated_countdown/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/34.%20Animated%20Countdown/demo.gif)
+
+### 35. [Image Carousel](https://50projectsbymilan.000webhostapp.com/50projects/35_image_carousel/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/35.%20Image%20Carousel/demo.gif)
