@@ -113,3 +113,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 35. [Image Carousel](https://50projectsbymilan.000webhostapp.com/50projects/35_image_carousel/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/35.%20Image%20Carousel/demo.gif)
+
+### 36. [Hoverboard](https://50projectsbymilan.000webhostapp.com/50projects/36_hoverboard/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/36.%20Hoverboard/demo.gif)
