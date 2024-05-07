@@ -116,3 +116,7 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 36. [Hoverboard](https://50projectsbymilan.000webhostapp.com/50projects/36_hoverboard/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/36.%20Hoverboard/demo.gif)
+
+### 37. [Pokedex](https://50projectsbymilan.000webhostapp.com/50projects/37_pokedex/)
+### Project Demo:
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/37.%20Pokedex/demo.gif)
