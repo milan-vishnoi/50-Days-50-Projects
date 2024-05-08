@@ -122,3 +122,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 38. [Mobile Tab Navigation](https://50projectsbymilan.000webhostapp.com/50projects/38_mobile_tab_navigation/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/38.%20Mobile%20Tab%20Navigation/demo.gif)
+
+### 39. [Password Strength Background](https://50projectsbymilan.000webhostapp.com/50projects/39_password_strength_background/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/39.%20Password%20Strength%20Background/demo.gif)
