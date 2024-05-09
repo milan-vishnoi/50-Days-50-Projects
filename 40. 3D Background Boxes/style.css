@@ -31,6 +31,7 @@ body{
     top: 20px;
     letter-spacing: 1px;
     box-shadow: 0 3px rgba(249, 202, 36, 0.5);
+    z-index: 100;
 }
 
 .magic:focus {
@@ -40,4 +41,59 @@ body{
 .magic:active {
     box-shadow: none;
     transform: translateY(2px);
+}
+
+.boxes {
+    /* position: absolute; */
+    top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    transition: 0.4s ease;
+}
+
+.boxes.big {
+    width: 600px;
+    height: 600px;
+}
+
+
+.box {
+    background: url("https://media3.giphy.com/media/bNCvnuel7vJAY/100.webp?cid=ecf05e478ipxw6iregoc8z8bi3xk7qijmn3nhous4vyl94ek&ep=v1_gifs_search&rid=100.webp&ct=g");
+    /* background-color: yellow; */
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    height: 125px;
+    width: 125px;
+    position: relative;
+    transition: 0.4s ease;
+}
+
+.boxes.big .box {
+    transform: rotateZ(360deg);
+}
+
+.box::after {
+    content: "";
+    background-color: #f6e58d;
+    position: absolute;
+    top: 8px;
+    right: -15px;
+    height: 100%;
+    width: 15px;
+    transform: skewY(45deg);
+}
+
+.box::before {
+    content: "";
+    background-color: #f9ca24;
+    position: absolute;
+    left: 8px;
+    bottom: -15px;
+    width: 100%;
+    height: 15px;
+    transform: skewX(45deg);
 }
