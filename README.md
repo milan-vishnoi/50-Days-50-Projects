@@ -125,3 +125,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 39. [Password Strength Background](https://50projectsbymilan.000webhostapp.com/50projects/39_password_strength_background/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/39.%20Password%20Strength%20Background/demo.gif)
+
+### 40. [3D Background Boxes](https://50projectsbymilan.000webhostapp.com/50projects/40_3D_background_boxes/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/40.%203D%20Background%20Boxes/demo.gif)
