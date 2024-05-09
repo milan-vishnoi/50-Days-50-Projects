@@ -1,6 +1,8 @@
 # 50-Days-50-Projects
 Created this repo to publish the code written as a part of "50 Projects in 50 Days - HTML, CSS, and JavaScript by Brad Traversy and Florin Pop" on O'Reilly. The projects are mini projects written in HTML, CSS and JavaScript. I have added the demo gif of all the project below. 
 
+Click on the project name below to see the demo of the project.
+
 To run any project, just clone the repo or download the contents of the folder and open `index.html`.
 
 ## Projects
