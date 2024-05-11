@@ -7,7 +7,7 @@ getUsers();
 filter.addEventListener("input" , (event) => filterUsers(event.target.value));
 
 async function getUsers() {
-    const response = await fetch("https://randomuser.me/api?results=1000");
+    const response = await fetch("https://randomuser.me/api?results=500");
     const data = await response.json();
     
     //Clearing the result screen
