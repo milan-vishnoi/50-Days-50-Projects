@@ -120,7 +120,7 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/36.%20Hoverboard/demo.gif)
 
 ### 37. [Pokedex](https://50projectsbymilan.000webhostapp.com/50projects/37_pokedex/)
-![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/37.%20Pokedex/demo.gif)\
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/37.%20Pokedex/demo.gif)
 
 ### 38. [Mobile Tab Navigation](https://50projectsbymilan.000webhostapp.com/50projects/38_mobile_tab_navigation/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/38.%20Mobile%20Tab%20Navigation/demo.gif)
@@ -133,3 +133,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 41. [Verify Account UI](https://50projectsbymilan.000webhostapp.com/50projects/41_verify_account_ui)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/41.%20Verify%20Account%20UI/demo.gif)
+
+### 42. Live User Filter
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/42.%20Live%20User%20Filter/demo.gif)
