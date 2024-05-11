@@ -130,3 +130,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 40. [3D Background Boxes](https://50projectsbymilan.000webhostapp.com/50projects/40_3D_background_boxes/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/40.%203D%20Background%20Boxes/demo.gif)
+
+### 41. [Verify Account UI](https://50projectsbymilan.000webhostapp.com/50projects/41_verify_account_ui)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/41.%20Verify%20Account%20UI/demo.gif)
