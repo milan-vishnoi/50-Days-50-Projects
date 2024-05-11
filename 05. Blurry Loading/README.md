@@ -3,3 +3,5 @@ In this project, we implemented the blurry loading of an image. Whenever the pag
 
 ### Project Demo:
 ![Project demo gif](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/05.%20Blurry%20Loading/demo.gif)
+
+![Project demo gif](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/05.%20Blurry%20Loading/demo2.gif)
