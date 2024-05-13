@@ -134,5 +134,5 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 ### 41. [Verify Account UI](https://50projectsbymilan.000webhostapp.com/50projects/41_verify_account_ui)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/41.%20Verify%20Account%20UI/demo.gif)
 
-### 42. Live User Filter
+### 42. [Live User Filter](https://50projectsbymilan.000webhostapp.com/50projects/42_live_user_filter/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/42.%20Live%20User%20Filter/demo.gif)
