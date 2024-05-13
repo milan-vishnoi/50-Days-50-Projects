@@ -136,3 +136,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 42. [Live User Filter](https://50projectsbymilan.000webhostapp.com/50projects/42_live_user_filter/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/42.%20Live%20User%20Filter/demo.gif)
+
+### 43. [Feedback UI Design](https://50projectsbymilan.000webhostapp.com/50projects/43_feedback_ui_design/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/43.%20Feedback%20UI%20Design/demo.gif)
