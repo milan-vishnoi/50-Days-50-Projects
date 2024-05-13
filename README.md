@@ -20,10 +20,10 @@ To run any project, just clone the repo or download the contents of the folder a
 ### 4. [Hidden Search](https://50projectsbymilan.000webhostapp.com/50projects/04_hidden_search/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/04.%20Hidden%20Search/demo.gif)
 
-### 5. Blurry Loading
+### 5. [Blurry Loading](https://50projectsbymilan.000webhostapp.com/50projects/05_blurry_loading/)
 ![Project demo gif](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/05.%20Blurry%20Loading/demo.gif)
 
-### 6. Scroll Animation
+### 6. [Scroll Animation](https://50projectsbymilan.000webhostapp.com/50projects/06_scroll_animation/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/06.%20Scroll%20Animation/demo.gif)
 
 ### 7. Split Landing
@@ -139,3 +139,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 43. [Feedback UI Design](https://50projectsbymilan.000webhostapp.com/50projects/43_feedback_ui_design/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/43.%20Feedback%20UI%20Design/demo.gif)
+
+### 44. [Custom Range Slider](https://50projectsbymilan.000webhostapp.com/50projects/44_custom_range_slider/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/44.%20Custom%20Range%20Slider/demo.gif)
