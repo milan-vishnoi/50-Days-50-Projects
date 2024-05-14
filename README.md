@@ -142,3 +142,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 44. [Custom Range Slider](https://50projectsbymilan.000webhostapp.com/50projects/44_custom_range_slider/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/44.%20Custom%20Range%20Slider/demo.gif)
+
+### 45. [Netflix Navigation](https://50projectsbymilan.000webhostapp.com/50projects/45_netflix_navigation/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/45.%20Netflix%20Navigation/demo.gif)
