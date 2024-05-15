@@ -40,6 +40,7 @@ const aLabel = document.getElementById("a_label");
 const bLabel = document.getElementById("b_label");
 const cLabel = document.getElementById("c_label");
 const dLabel = document.getElementById("d_label");
+const submitButton = document.getElementById("submit");
 
 
 let currentQuestion = 0;
@@ -48,9 +49,49 @@ let score = 0;
 loadQuiz();
 
 function loadQuiz() {
+   deSelectOptions();
+
     question.innerText = quizData[currentQuestion].question;
     aLabel.innerText = quizData[currentQuestion].a;
     bLabel.innerText = quizData[currentQuestion].b;
     cLabel.innerText = quizData[currentQuestion].c;
     dLabel.innerText = quizData[currentQuestion].d;
 }
+
+function deSelectOptions() {
+    answers.forEach(answer => answer.checked = false);
+}
+
+function getSelectedOption() {
+    let answer;
+
+    answers.forEach(answerElement => {
+        if(answerElement.checked){
+            answer = answerElement.id;
+        }
+    });
+    return answer;
+}
+
+submitButton.addEventListener("click", () => {
+    const answer = getSelectedOption();
+    console.log("Selected:"+answer);
+
+    if(answer === quizData[currentQuestion].correct){
+        score++;
+    }
+    currentQuestion++;
+
+    if(currentQuestion < quizData.length) {
+        loadQuiz();
+    } else {
+        quizContainer.innerHTML = `
+        <h2>You answered ${score} out of ${quizData.length} questions correctly. </h2>
+        <button onClick="location.reload()">Reload</button>
+        `;
+    }
+
+    
+    
+    
+});
