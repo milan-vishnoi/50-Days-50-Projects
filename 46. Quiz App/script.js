@@ -75,7 +75,6 @@ function getSelectedOption() {
 
 submitButton.addEventListener("click", () => {
     const answer = getSelectedOption();
-    console.log("Selected:"+answer);
 
     if(answer === quizData[currentQuestion].correct){
         score++;
