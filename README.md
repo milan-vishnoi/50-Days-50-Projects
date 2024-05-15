@@ -145,3 +145,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 45. [Netflix Navigation](https://50projectsbymilan.000webhostapp.com/50projects/45_netflix_navigation/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/45.%20Netflix%20Navigation/demo.gif)
+
+### 46. [Quiz App](https://50projectsbymilan.000webhostapp.com/50projects/46_quiz_app/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/46.%20Quiz%20App/demo.gif)
