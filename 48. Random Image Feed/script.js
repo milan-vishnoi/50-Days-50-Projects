@@ -3,7 +3,7 @@ const unsplashUrl = "https://source.unsplash.com/random/";
 const rows = 10;
 const columns = 3;
 
-for(let i = 0;i<=rows*columns;i++)
+for(let i =0;i<rows*columns;i++)
     {
           setImages();
     }
