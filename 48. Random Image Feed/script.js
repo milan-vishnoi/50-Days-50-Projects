@@ -1,12 +1,17 @@
-const container = document.querySelector(".container");
+const container = document.querySelector(".image-container");
 const unsplashUrl = "https://source.unsplash.com/random/";
-const rows = 10;
-const columns = 3;
+const rows = document.getElementById("rows");
+const columns = document.getElementById("columns");
+const button = document.getElementById("getImages");
 
-for(let i =0;i<rows*columns;i++)
-    {
-          setImages();
-    }
+button.addEventListener("click",()=> {
+    for(let i =0;i<rows.value*columns.value;i++)
+        {
+              setImages();
+        }
+})
+
+
 
 function setImages() {
     const img = document.createElement("img");
@@ -16,5 +21,5 @@ function setImages() {
 
 
 function getRandomNumber() {
-    return Math.floor(Math.random()*10)+300;
+    return Math.floor(Math.random()*50)+300;
 }
