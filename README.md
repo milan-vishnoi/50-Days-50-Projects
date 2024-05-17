@@ -148,3 +148,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 46. [Quiz App](https://50projectsbymilan.000webhostapp.com/50projects/46_quiz_app/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/46.%20Quiz%20App/demo.gif)
+
+### 47. [Testimonial Box Switcher](https://50projectsbymilan.000webhostapp.com/50projects/47_testimonial_box_switcher/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/47.%20Testimonial%20Box%20Switcher/demo.gif)
