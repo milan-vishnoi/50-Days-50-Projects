@@ -32,7 +32,7 @@ To run any project, just clone the repo or download the contents of the folder a
 ### 8. [Form Wave Animation](https://50projectsbymilan.000webhostapp.com/50projects/08_form_wave_animation/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/08.%20Form%20Wave%20Animation/demo.gif)
 
-### 9. Sound Board
+### 9. [Sound Board](https://50projectsbymilan.000webhostapp.com/50projects/09_sound_board/)
 See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/09.%20Sound%20Board/demo.mp4) to hear the sounds.
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/09.%20Sound%20Board/demo.gif)
 

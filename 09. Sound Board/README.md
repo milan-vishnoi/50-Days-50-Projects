@@ -1,4 +1,4 @@
-## Sound Board
+## [Sound Board](https://50projectsbymilan.000webhostapp.com/50projects/09_sound_board/)
 Implemented the sound board such that:
 - When the button is clicked the respective sound is played.
 - At a time only one sound is played i.e. when another button is clicked while another sounds is playing, the previous sound stops playing and new sound plays. 
