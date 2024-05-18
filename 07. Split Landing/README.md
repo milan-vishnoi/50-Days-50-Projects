@@ -1,4 +1,4 @@
-## Split Landing
+## [Split Landing](https://50projectsbymilan.000webhostapp.com/50projects/07_split_landing/)
 Implemented the split landing such that:
 - When mouse is hovered on left side, the left side will take 75% of the screen width.
 - When mouse is hovered on right side, the right side will take 75% of the screen width.
