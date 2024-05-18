@@ -154,3 +154,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 48. [Random Image Feed](https://50projectsbymilan.000webhostapp.com/50projects/48_random_image_feed/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/48.%20Random%20Image%20Feed/demo.gif)
+
+### 49. [Todo List](https://50projectsbymilan.000webhostapp.com/50projects/49_todo_list/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/49.%20Todo%20List/demo.gif)
