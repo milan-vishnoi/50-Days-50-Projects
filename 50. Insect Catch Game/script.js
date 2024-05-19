@@ -59,6 +59,9 @@ function getRandomScreenLocation() {
 
 function catchInsect() {
       increaseScore();
+      this.classList.add("caught");
+      setTimeout(() => this.remove(),2000);
+      addMoreInsects();
 }
 
 function increaseScore() {
@@ -67,4 +70,9 @@ function increaseScore() {
         messageElement.classList.add("visible");
     }
     scoreElement.innerHTML = `Score: ${score}`;
+}
+
+function addMoreInsects() {
+    setTimeout(addInsect,1000);
+    setTimeout(addInsect,1500);
 }
