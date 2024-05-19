@@ -24,6 +24,19 @@ chooseInsectButtons.forEach(button => {
     });
 });
 
+function startGame() {
+    setInterval(increaseTime, 1000);
+}
+
+function increaseTime() {
+    let m = Math.floor(seconds / 60);
+    let s = seconds % 60;
+    m = m < 10 ? `0${m}` : m;
+    s = s < 10 ? `0${s}` : s;
+    timeElement.innerHTML = `Time: ${m}:${s}`;
+    seconds++;
+}
+
 function addInsect() {
     const insect = document.createElement("div");
     insect.classList.add("insect");
@@ -31,6 +44,7 @@ function addInsect() {
     insect.style.top = `${y}px`;
     insect.style.left = `${x}px`;
     insect.innerHTML = `<img src=${selectedInsect.source} alt=${selectedInsect.altText} style = "transform: rotate(${Math.random()*360}deg)">`;
+    insect.addEventListener("click",catchInsect);
     gameContainer.appendChild(insect);
 }
 
@@ -41,4 +55,8 @@ function getRandomScreenLocation() {
     const y = Math.random() * (windowHeight - 200) + 100;
 
     return { x, y };
+}
+
+function catchInsect() {
+
 }
