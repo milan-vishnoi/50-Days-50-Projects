@@ -1,7 +1,7 @@
 # 50-Days-50-Projects
 Created this repo to publish the code written as a part of "50 Projects in 50 Days - HTML, CSS, and JavaScript by Brad Traversy and Florin Pop" on O'Reilly. The projects are mini projects written in HTML, CSS and JavaScript. I have added the demo gif of all the project below. 
 
-Click on the project name below to see the demo of the project.
+Click on the project name in the list below to see the demo of the project.
 
 To run any project, just clone the repo or download the contents of the folder and open `index.html`.
 
@@ -157,3 +157,6 @@ See the [Demo Video](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/m
 
 ### 49. [Todo List](https://50projectsbymilan.000webhostapp.com/50projects/49_todo_list/)
 ![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/49.%20Todo%20List/demo.gif)
+
+### 50. [Insect Catch Game](https://50projectsbymilan.000webhostapp.com/50projects/50_insect_catch_game/)
+![Project Demo](https://github.com/milan-vishnoi/50-Days-50-Projects/blob/main/50.%20Insect%20Catch%20Game/demo.gif)
