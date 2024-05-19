@@ -58,5 +58,13 @@ function getRandomScreenLocation() {
 }
 
 function catchInsect() {
+      increaseScore();
+}
 
+function increaseScore() {
+    score++;
+    if(score > 19 ) {
+        messageElement.classList.add("visible");
+    }
+    scoreElement.innerHTML = `Score: ${score}`;
 }
